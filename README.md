@@ -21,7 +21,7 @@ Paladins-BetterVGS is my attempt at restoring pre 3.x vgs keybinds using AutoHot
 1. Download or clone src folder (containing ahk, ini and ico).
 2. Run Paladins-BetterVGS.ahk with latest version of AutoHotKey. 
 
-Remember to close the Program/Script from the system tray when you're done playing.
+Set VGS Layout to Text Mode in the gameplay Options for best result. Also. remember to close the Program/Script from the system tray when you're done playing.
 
 ## Feedback and Contribution. 
 
@@ -32,3 +32,4 @@ Remember to close the Program/Script from the system tray when you're done playi
 
 * [Ahmed Aziz Nahin](https://www.facebook.com/nahin22) - for the idea and inspiration.
 * [dribbleondo](https://old.reddit.com/user/dribbleondo) - for the compiled lists of old and new VGS keybinds.
+* [Arafat Zahan](https://www.facebook.com/arafatzahan2018) - me, for obvious reasons. 
